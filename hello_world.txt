@@ -1,0 +1,3 @@
+p{
+    maggi-selectors: besar;
+}
